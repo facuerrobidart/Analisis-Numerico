@@ -1,0 +1,5 @@
+PROGRAM normaMatriz
+IMPLICIT NONE
+
+
+END PROGRAM
